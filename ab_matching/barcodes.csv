@@ -1,0 +1,283 @@
+Primary,barcode,DNA_ID,Target,Clean,Alternative,NCBI_NAME,GENE_NAME,NCBI_OTHER_NAME,MANUAL,matched_receptor_bool,matched_ligand_bool,matched,matched_receptor,matched_ligand
+CD64,AAGTATGCCCTACGA,A0162,CD64,CD64,[],none,none,none,none,False,False,False,none,none
+CD1d,TCGAGTCGCTTATCA,A0164,CD1d,CD1d,[],CD1D,CD1D,['none'],none,False,True,True,none,CD1D
+CD270,TGATAGAAACAGACC,A0020,"CD270 (HVEM, TR2)",CD270..HVEM_.TR2,"['HVEM, TR2']",TNFRSF14,CD270,"['ATAR', ' CD270', ' ""herpesvirus entry mediator""', ' HVEA', ' HVEM', ' LIGHTR', ' TR2']",TNFRSF14,True,False,True,TNFRSF14,none
+CD319,AGTATGCCATGTCTT,A0830,CD319 (CRACC),CD319..CRACC,['CRACC'],SLAMF7,CD319,"['19A', ' CRACC', ' CS1']",none,False,False,False,none,none
+CD34,GCAGAAATCTCCCTT,A0054,CD34,CD34,[],CD34,CD34,['none'],none,False,True,True,none,CD34
+CD335,ACAATTTGAACAGCG,A0101,CD335 (NKp46),CD335..NKp46,['NKp46'],NCR1,CD335,"['LY94', ' NK-p46', ' NKP46']",NCR1,True,False,True,NCR1,none
+CD193,ACCAATCCTTTCGTC,A0397,CD193 (CCR3),CD193..CCR3,['CCR3'],CCR3,CD193,"['CC-CKR-3', ' CKR3', ' CMKBR3']",none,True,False,True,CCR3,none
+CD90,GCATTGTACGATTCA,A0060,CD90 (Thy1),CD90..Thy1,['Thy1'],THY1,CD90,['CD90'],none,False,False,False,none,none
+CD117,AGACTAATAGCTGAC,A0061,CD117 (c-kit),CD117..c.kit,['c-kit'],KIT,CD117,"['CD117', ' PBT', ' SCFR']",KIT,True,False,True,KIT,none
+CD357,ACCTTTCGACACTCG,A0360,CD357 (GITR),CD357..GITR,['GITR'],TNFRSF18,CD357,"['AITR', ' CD357', ' GITR']",TNFRSF18,True,False,True,TNFRSF18,none
+CD70,CGCGAACATAAGAAG,A0027,CD70,CD70,[],TNFSF7,CD70,"['CD27L', ' CD27LG', ' CD70']",none,False,False,False,none,none
+CD268,CGAAGTCGATCCGTA,A0215,CD268 (BAFF-R),CD268..BAFF.R,['BAFF-R'],TNFRSF13C,CD268,"['BAFFR', ' CD268', ' BAFF-R', ' MGC138235']",TNFRSF13C,True,False,True,TNFRSF13C,none
+CD252,TTTAGTGATCCGACT,A0021,CD252 (OX40L),CD252..OX40L,['OX40L'],TNFSF4,CD252,"['TNFSF4', ' GP34', ' OX4OL', ' TXGP1', ' CD134L', ' OX-40L', ' OX40L']",TNFSF4,False,True,True,none,TNFSF4
+CD223,CATTTGTCTGCCGGT,A0152,CD223 (LAG-3),CD223..LAG.3,['LAG-3'],LAG3,CD223,['CD223'],none,True,False,True,LAG3,none
+CD304,GGACTAAGTTTCGTT,A0406,CD304 (Neuropilin-1),CD304..Neuropilin.1,['Neuropilin-1'],NRP1,CD304,"['NRP', ' VEGF165R']",none,True,False,True,NRP1,none
+CD184,TCAGGTCCTTTCAAC,A0366,CD184 (CXCR4),CD184..CXCR4,['CXCR4'],CXCR4,CD184,"['D2S201E', ' HM89', ' HSY3RR', ' LAP3', ' LESTR', ' NPY3R', ' NPYR', ' NPYY3R', ' WHIM']",none,True,False,True,CXCR4,none
+CD206,TCAGAACGTCTAACT,A0205,CD206 (MMR),CD206..MMR,['MMR'],MRC1,CD206,['CLEC13D'],none,False,True,True,none,MRC1
+LOX-1,ACCCTTTACCGAATA,A0591,LOX-1,LOX.1,[],none,none,none,OLR1,True,False,True,OLR1,none
+CD140b,CAATGGTTCACTGCC,A0129,CD140b (PDGFRβ),CD140b..PDGFRb,['PDGFRβ'],PDGFRB,CD140B,"['CD140B', ' JTK12', ' PDGF-R-beta', ' PDGFR', ' PDGFR1']",none,True,False,True,PDGFRB,none
+CD269,CAGATGATCCACCAT,A0056,CD269 (BCMA),CD269..BCMA,['BCMA'],TNFRSF17,CD269,"['BCM', ' BCMA']",none,True,False,True,TNFRSF17,none
+CD267,AGTGATGGAGCGAAC,A0247,CD267 (TACI),CD267..TACI,['TACI'],TNFRSF13B,CD267,"['CVID', ' TACI', ' CD267', ' FLJ39942', ' MGC39952', ' MGC133214', ' TNFRSF14B']",none,True,False,True,TNFRSF13B,none
+CD314,CGTGTTTGTTCCTCA,A0165,CD314 (NKG2D),CD314..NKG2D,['NKG2D'],KLRK1,CD314,"['KLRK1', ' KLR', ' NKG2D', ' NKG2-D', ' D12S2489E']",none,True,False,True,KLRK1,none
+TSLPR,CAGTCCTCTCTGTCA,A0387,TSLPR (TSLP-R),TSLPR..TSLP.R,['TSLP-R'],none,none,none,CRLF2,False,True,True,none,CRLF2
+CD257,CAGAGCACCCATTAA,A0863,"CD257 (BAFF, BLYS)",CD257..BAFF_BLYS,"['BAFF, BLYS']",TNFSF13B,CD257,"['BAFF', ' BLYS', ' TALL-1', ' TALL1', ' THANK', ' TNFSF20', ' ZTNF4', ' delta BAFF']",none,False,True,True,none,TNFSF13B
+CD303,GAGATGTCCGAATTT,A0370,CD303 (BDCA-2),CD303..BDCA.2,['BDCA-2'],CLEC4C,CD303,"['BDCA2', ' CLECSF11', ' DLEC', ' HECL', ' PRO34150', ' CLECSF7']",none,False,False,False,none,none
+CD154,GCTAGATAGATGCAA,A0032,CD154,CD154,[],CD40LG,CD154,"['CD154', ' CD40L', ' CD40LG', ' HIGM1', ' IGM', ' IMD3', ' T-BAM', ' TRAP', ' gp39', ' hCD40L']",none,False,True,True,none,CD40LG
+CD273,TCAACGCTTGGCTAG,A0008,"CD273  (B7-DC, PD-L2)",CD273...B7.DC_.PD.L2,"['B7-DC, PD-L2']",PDCD1LG2,CD273,"['PDCD1LG2', ' B7DC', ' Btdc', ' PDL2', ' PD-L2', ' PDCD1L2', ' bA574F11.2']",PDCD1LG2,False,True,True,none,PDCD1LG2
+CD274,GTTGTCCGACAATAC,A0007,"CD274 (B7-H1, PD-L1)",CD274..B7.H1_.PD.L1,"['B7-H1, PD-L1']",CD274,CD274,"['B7-H', ' B7H1', ' PD-L1', ' PDCD1L1', ' PDL1']",none,False,True,True,none,CD274
+CD80,ACGAATCAATCTGTG,A0005,CD80,CD80,[],CD80,CD80,"['B-lymphocyte activation antigen B7', ' B7-1', ' B7.1']",none,False,False,False,none,none
+CD20,TTCTGGGTCCCTAGA,A0100,CD20,CD20,[],CD20,CD20,"['B1', ' Bp35', ' MS4A2']",none,False,False,False,none,none
+β2-microglobulin,CAGCCCGATTAAGGT,A0057,β2-microglobulin,b2.microglobulin,[],none,none,none,B2M,False,True,True,none,B2M
+CD99,ACCCGTCCCTAAGAA,A0845,CD99,CD99,[],CD99,CD99,"['MIC2', ' MIC2X', ' MIC2Y']",none,False,True,True,none,CD99
+TCR Vα7.2,TACGAGCAGTATTCA,A0581,TCR Vα7.2,TCR.Va7.2,[],none,none,none,none,False,False,False,none,none
+HLA-E,GAGTCGAGAAATCAT,A0918,HLA-E,HLA.E,[],none,none,none,none,False,True,True,none,HLA-E
+CD16,AAGTTCACTCTTTGC,A0083,CD16,CD16,[],none,none,none,none,False,False,False,none,none
+CD307d,CGATTTGATCTGCCT,A0828,CD307d (FcRL4),CD307d..FcRL4,['FcRL4'],FCRL4,CD307d,"['CD307d', ' FCRH4', ' IGFP2', ' IRTA1']",none,True,False,True,FCRL4,none
+CD137,CAGTAAGTTCGGGAC,A0355,CD137 (4-1BB),CD137..4.1BB,['4-1BB'],TNFRSF9,CD137,"['4-1BB', ' CD137', ' CDw137', ' ILA', ' MGC2172']",none,True,False,True,TNFRSF9,none
+CD56,TCCTTTCCTGATAGG,A0047,CD56,CD56,[],NCAM1,CD56,"['CD56', ' MSK39', ' NCAM']",none,False,True,True,none,NCAM1
+CD307e,TCACGCAGTCCTCAA,A0829,CD307e (FcRL5),CD307e..FcRL5,['FcRL5'],FCRL5,CD307e,"['BXMAS1', ' CD307e', ' FCRH5', ' IRTA2']",none,False,False,False,none,none
+CLEC12A,CATTAGAGTCTGCCA,A0853,CLEC12A,CLEC12A,[],none,none,none,none,True,False,True,CLEC12A,none
+CD36,TTCTTTGCCTTGCCA,A0407,CD36,CD36,[],CD36,CD36,"['FAT', ' GP3B', ' GP4', ' GPIV', ' PASIV', ' SCARB3']",none,True,False,True,CD36,none
+CD81,GTATCCTTCCTTGGC,A0373,CD81 (TAPA-1),CD81..TAPA.1,['TAPA-1'],CD81,CD81,"['S5.7', ' TAPA1']",none,True,False,True,CD81,none
+CD40,CTCAGATGGAGTATG,A0031,CD40,CD40,[],CD40,CD40,"['Bp50', ' p50']",none,True,False,True,CD40,none
+CD137L,ATTCGCCTTACGCAA,A0022,CD137L (4-1BB Ligand),CD137L..4.1BB.Ligand,['4-1BB Ligand'],none,none,none,TNFSF9,False,True,True,none,TNFSF9
+CD66b,AGCTGTAAGTTTCGG,A0166,CD66b,CD66b,[],CEACAM8,CD66b,"['CD66b', ' CD67', ' CGM6', ' NCA-95']",none,False,True,True,none,CEACAM8
+CD328,CTTAGCATTTCACTG,A0902,CD328 (Siglec-7),CD328..Siglec.7,['Siglec-7'],SIGLEC7,CD328,"['p75', ' QA79', ' AIRM1', ' CDw328', ' SIGLEC-7', ' p75/AIRM1']",none,True,False,True,SIGLEC7,none
+CD324,ATCCTTCTCCCTTTC,A0135,CD324 (E-Cadherin),CD324..E.Cadherin,['E-Cadherin'],CDH1,CD324,"['Arc-1', ' CDHE', ' ECAD', ' LCAM', ' UVO']",none,False,True,True,none,CDH1
+TCR Vα24-Jα18,AACTTCTGTGGTAGC,A0584,TCR Vα24-Jα18 (iNKT cell),TCR.Va24.Ja18..iNKT.cell,['iNKT cell'],none,none,none,none,False,False,False,none,none
+CD123,CTTCACTCTGTCAGG,A0064,CD123,CD123,[],IL3RA,CD123,"['CD123', ' IL3R', ' IL3RAY', ' IL3RX', ' IL3RY', ' MGC34174', ' hIL-3Ra']",none,True,False,True,IL3RA,none
+CD169,TACTCAGCGTGTTTG,A0206,"CD169 (Sialoadhesin, Siglec-1)",CD169..Sialoadhesin_Siglec.1,"['Sialoadhesin, Siglec-1']",SN,CD169,"['CD169', ' FLJ00051', ' FLJ00055', ' FLJ00073', ' FLJ32150', ' SIGLEC-1', ' dJ1009E24.1']",SIGLEC1,True,False,True,SIGLEC1,none
+GARP,AGGTATGGTAGAGTA,A0901,GARP (LRRC32),GARP..LRRC32,['LRRC32'],none,none,none,none,False,False,False,none,none
+CD204,TAGCGAGCCAGATGT,A0399,CD204,CD204,[],MSR1,CD204,"['SCARA1', ' SR-A', ' phSR1', ' phSR2']",none,False,False,False,none,none
+CD309,TTCACGCAGTAAGAT,A0362,CD309 (VEGFR2),CD309..VEGFR2,['VEGFR2'],KDR,CD309,"['KDR', ' FLK1', ' VEGFR', ' VEGFR2']",none,True,False,True,KDR,none
+CD370,CTGCATTTCAGTAAG,A0207,CD370 (CLEC9A/DNGR1),CD370..CLEC9A_DNGR1,['CLEC9A/DNGR1'],CLEC9A,CD370,"['HEEE9341, UNQ9341, DNGR1']",none,False,False,False,none,none
+CD326,TTCCGAGCAAGTATC,A0123,CD326 (Ep-CAM),CD326..Ep.CAM,['Ep-CAM'],TACSTD1,CD326,"['CO17-1A', ' EGP', ' EGP40', ' Ep-CAM', ' GA733-2', ' KSA', ' M4S1', ' MIC18', ' MK-1', ' TROP1', ' hEGP-2']",none,False,False,False,none,none
+CD209,TCACTGGACACTTAA,A0597,CD209 (DC-SIGN),CD209..DC.SIGN,['DC-SIGN'],CD209,CD209,"['CDSIGN', ' DC-SIGN', ' DC-SIGN1']",none,False,True,True,none,CD209
+CD49d,CCATTCAACTTCCGG,A0576,CD49d,CD49d,[],ITGA4,CD49D,['CD49D'],none,True,False,True,ITGA4,none
+CD127,GTGTGTTGTCCTATG,A0390,CD127 (IL-7Rα),CD127..IL.7Ra,['IL-7Rα'],IL7R,CD127,"['CD127', ' CDW127', ' IL-7R-alpha']",none,False,False,False,none,none
+CD39,TTACCTGGTATCCGT,A0176,CD39,CD39,[],ENTPD1,CD39,"['ATPDase', ' CD39', ' NTPDase-1']",none,False,True,True,none,ENTPD1
+CD150,GTCATTGTATGTCTG,A0870,CD150 (SLAM),CD150..SLAM,['SLAM'],SLAMF1,CD150,"['CD150', ' CDw150', ' SLAM']",none,False,False,False,none,none
+TIGIT,TTGCTTACCGCCAGA,A0089,TIGIT (VSTM3),TIGIT..VSTM3,['VSTM3'],none,none,none,none,False,False,False,none,none
+CD73,CAGTTCCTCAGTTCG,A0577,CD73 (Ecto-5'-nucleotidase),CD73..Ecto.5..nucleotidase,"[""Ecto-5'-nucleotidase""]",NT5E,CD73,"['CD73', ' E5NT', ' NT5', ' NTE', ' eN', ' eNT']",none,True,False,True,NT5E,none
+FcεRIα,CTCGTTTCCGTATCG,A0352,FcεRIα,FceRIa,[],none,none,none,FCER2,False,True,True,none,FCER2
+CD62P,CCTTCCGTATCCCTT,A0218,CD62P (P-Selectin),CD62P..P.Selectin,['P-Selectin'],SELP,CD62P,"['CD62', ' CD62P', ' GMP140', ' GRMP', ' PADGEM', ' PSEL']",none,True,False,True,SELP,none
+CD82,TCCCACTTCCGCTTT,A0920,CD82,CD82,[],CD82,CD82,"['4F9', ' C33', ' CD82', ' GR15', ' IA4', ' R2', ' SAR2', ' ST6']",none,True,False,True,CD82,none
+TCR γ/δ,CTTCCGATTCATTCA,A0139,TCR γ/δ,TCR.v_Delta,[],none,none,none,none,False,False,False,none,none
+TCR Vγ9,AAGTGATGGTATCTG,A0583,TCR Vγ9,TCR.Vv9,[],none,none,none,none,False,False,False,none,none
+TCR Vδ2,TCAGTCAGATGGTAT,A0582,TCR Vδ2,TCR.VDelta2,[],none,none,none,none,False,False,False,none,none
+CD26,GGTGGCTAGATAATG,A0396,CD26,CD26,[],DPP4,CD26,"['ADABP', ' ADCP2', ' CD26', ' DPPIV', ' TP103']",none,True,False,True,DPP4,none
+CD101,CTACTTCCCTGTCAA,A0944,CD101 (BB27),CD101..BB27,['BB27'],IGSF2,CD101,"['CD101', ' V7']",none,False,False,False,none,none
+HLA-A2,GAACATTTCCGACAA,A0899,HLA-A2,HLA.A2,[],none,none,none,none,False,False,False,none,none
+CD25,TTTGTCCTGTACGCC,A0085,CD25,CD25,[],IL2RA,CD25,"['CD25', ' IL2R', ' TCGFR']",none,True,False,True,IL2RA,none
+CD134,AACCCACCGTTGTTA,A0158,CD134 (OX40),CD134..OX40,['OX40'],TNFRSF4,CD134,"['ACT35', ' CD134', ' OX40', ' TXGP1L']",none,True,False,True,TNFRSF4,none
+CD103,GACCTCATTGTGAAT,A0145,CD103 (Integrin αE),CD103..Integrin.aE,['Integrin αE'],ITGAE,CD103,"['CD103', ' HUMINAE']",none,False,False,False,none,none
+CD48,CTACGACGTAGAAGA,A0029,CD48,CD48,[],CD48,CD48,"['BCM1', ' BLAST', ' BLAST1', ' MEM-102', ' SLAMF2', ' hCD48', ' mCD48']",none,False,True,True,none,CD48
+CD294,TGTTTACGAGAGCCC,A0102,CD294 (CRTH2),CD294..CRTH2,['CRTH2'],GPR44,CD294,['CRTH2'],PTGDR2,True,False,True,PTGDR2,none
+CD152,ATGGTTCACGTAATC,A0151,CD152 (CTLA-4),CD152..CTLA.4,['CTLA-4'],CTLA4,CD152,['CD152'],none,True,False,True,CTLA4,none
+CD21,AACCTAGTAGTTCGG,A0181,CD21,CD21,[],CR2,CD21,"['C3DR', ' CD21']",none,True,False,True,CR2,none
+CD144,TCCACTCATTCTGTA,A0400,CD144 (VE-Cadherin),CD144..VE.Cadherin,['VE-Cadherin'],CDH5,CD144,['7B4'],none,True,False,True,CDH5,none
+CD30,TCAGGGTGTGCTGTA,A0028,CD30,CD30,[],TNFRSF8,CD30,"['CD30', ' D1S166E', ' KI-1']",none,True,False,True,TNFRSF8,none
+CD244,TCGCTTGGATGGTAG,A0189,CD244 (2B4),CD244..2B4,['2B4'],CD244,CD244,"['2B4', ' NAIL', ' NKR2B4', ' Nmrk', ' SLAMF4']",none,True,False,True,CD244,none
+human/mouse/rat CD278,CGCGCACCCATTAAA,A0171,human/mouse/rat CD278 (ICOS),human_mouse.CD278..ICOS,['ICOS'],none,none,none,none,True,False,True,ICOS,none
+CD79b,ATTCTTCAACCGAAG,A0187,CD79b (Igβ),CD79b..Igb,['Igβ'],CD79B,CD79B,"['B29', ' IGB']",none,False,False,False,none,none
+CD47,GCATTCTGTCACCTA,A0026,CD47,CD47,[],CD47,CD47,"['IAP', ' MER6', ' OA3']",none,False,False,False,none,none
+CD28,TGAGAACGACCCTAA,A0386,CD28,CD28,[],CD28,CD28,['Tp44'],none,False,False,False,none,none
+CD7,TGGATTCCCGGACTT,A0066,CD7,CD7,[],CD7,CD7,"['GP40', ' LEU-9', ' TP41', ' Tp40']",none,True,False,True,CD7,none
+CD71,CCGTGTTCCTCATTA,A0394,CD71,CD71,[],TFRC,CD71,"['CD71', ' TFR', ' TRFR']",none,True,False,True,TFRC,none
+CD138,GTATAGACCAAAGCC,A0831,CD138 (Syndecan-1),CD138..Syndecan.1,['Syndecan-1'],SDC1,CD138,"['CD138', ' SDC', ' SYND1']",none,True,False,True,SDC1,none
+CD62L,GTCCCTGCAACTTGA,A0147,CD62L,CD62L,[],SELL,CD62L,"['CD62L', ' LAM-1', ' LAM1', ' LECAM1', ' LNHR', ' LSEL', ' LYAM1', ' Leu-8', ' Lyam-1', ' PLNHR', ' TQ1', ' hLHRc']",none,False,False,False,none,none
+CD95,CCAGCTCATTAGAGC,A0156,CD95 (Fas),CD95..Fas,['Fas'],FAS,CD95,"['APT1', ' CD95', ' FAS1', ' APO-1', ' FASTM', ' ALPS1A', ' TNFRSF6']",none,True,False,True,FAS,none
+CD94,CTTTCCGGTCCTACA,A0867,CD94,CD94,[],KLRD1,CD94,['CD94'],none,True,False,True,KLRD1,none
+CD158b,GACCCGTAGTTTGAT,A0592,"CD158b (KIR2DL2/L3,  NKAT2)",CD158b..KIR2DL2_L3_..NKAT2,"['KIR2DL2/L3,  NKAT2']",none,none,none,none,False,False,False,none,none
+CD158e1,GGACGCTTTCCTTGA,A0599,"CD158e1 (KIR3DL1, NKB1)",CD158e1..KIR3DL1_NKB1,"['KIR3DL1, NKB1']",none,none,none,none,False,False,False,none,none
+CD35,ACTTCCGTCGATCTT,A0167,CD35,CD35,[],CR1,CD35,"['C3BR', ' CD35']",none,True,False,True,CR1,none
+CD23,TCTGTATAACCGTCT,A0897,CD23,CD23,[],FCER2,CD23,"['CD23', ' CD23A', ' FCE2', ' IGEBF']",none,False,True,True,none,FCER2
+CD279,ACAGCGCCGTATTTA,A0088,CD279 (PD-1),CD279..PD.1,['PD-1'],PDCD1,CD279,"['PD1', ' SLEB2', ' hPD-l']",none,True,False,True,PDCD1,none
+CD366,TGTCCTACCCAACTT,A0169,CD366 (Tim-3),CD366..Tim.3,['Tim-3'],HAVCR2,CD366,"['T-cell immunoglobulin mucin family member 3, TIM-3, TIMD3']",none,True,False,True,HAVCR2,none
+integrin β7,TCCTTGGATGTACCG,A0214,integrin β7,human_mouse.integrin.b7,[],none,none,none,ITGB7,True,False,True,ITGB7,none
+CD69,GTCTCTTGGCTTAAA,A0146,CD69,CD69,[],CD69,CD69,['none'],none,True,False,True,CD69,none
+CD32,GCTTCCGAATTACCG,A0142,CD32,CD32,[],none,none,none,FCGR2A,True,False,True,FCGR2A,none
+CD183,GCGATGGTAGATTAT,A0140,CD183 (CXCR3),CD183..CXCR3,['CXCR3'],CXCR3,CD183,"['CD183', ' CKR-L2', ' CMKAR3', ' GPR9', ' IP10', ' IP10-R', ' Mig-R', ' MigR']",none,True,False,True,CXCR3,none
+CD196,GATCCCTTTGTCACT,A0143,CD196 (CCR6),CD196..CCR6,['CCR6'],CCR6,CD196,"['CCR6', ' BN-1', ' CKR6', ' DCR2', ' CKRL3', ' DRY-6', ' GPR29', ' CKR-L3', ' CMKBR6', ' GPRCY4', ' STRL22', ' GPR-CY4']",none,True,False,True,CCR6,none
+CD197,AGTTCAGTCAACCGA,A0148,CD197 (CCR7),CD197..CCR7,['CCR7'],CCR7,CD197,"['BLR2', ' CDw197', ' CMKBR7', ' EBI1']",none,True,False,True,CCR7,none
+CD124,CCGTCCTGATAGATG,A0363,CD124 (IL-4Rα),CD124..IL.4Ra,['IL-4Rα'],IL4R,CD124,"['CD124', ' IL4RA']",none,True,False,True,IL4R,none
+CD163,GCTTCTCCTTCCTTA,A0358,CD163,CD163,[],CD163,CD163,"['M130', ' MM130']",none,True,False,True,CD163,none
+CD85j,CCTTGTGAGGCTATG,A0896,CD85j (ILT2),CD85j..ILT2,['ILT2'],none,none,none,LILRB1,True,False,True,LILRB1,none
+CD49f,TTCCGAGGATGATCT,A0070,CD49f,human_mouse.CD49f,[],ITGA6,CD49F,['CD49f'],none,True,False,True,ITGA6,none
+TCR Vβ13.1,TTATGGACGTATGGT,A0908,TCR Vβ13.1,TCR.Vb13.1,[],none,none,none,none,False,False,False,none,none
+CD107a,CAGCCCACTGCAATA,A0155,CD107a (LAMP-1),CD107a..LAMP.1,['LAMP-1'],LAMP1,CD107A,"['CD107a', ' LAMPA', ' LGP120']",none,True,False,True,LAMP1,none
+CD54,CTGATAGACTTGAGT,A0217,CD54,CD54,[],ICAM1,CD54,"['BB2', ' CD54']",none,False,True,True,none,ICAM1
+CD83,CCACTCATTTCCGGT,A0359,CD83,CD83,[],CD83,CD83,"['BL11', ' HB15']",none,False,False,False,none,none
+CD45RA,TCAATCCTTCCGCTT,A0063,CD45RA,CD45RA,[],PTPRC,CD45RA,['nan'],none,True,False,True,PTPRC,none
+CD10,CAGCCATTCATTAGG,A0062,CD10,CD10,[],MME,CD10,"['CALLA', ' CD10', ' NEP']",none,False,False,False,none,none
+CD1a,GATCGTGTTGTGTTA,A0402,CD1a,CD1a,[],CD1A,CD1A,['CD1'],none,True,False,True,CD1A,none
+CD52,CTTTGTACGAGCAAA,A0033,CD52,CD52,[],CD52,CD52,['CD52'],none,False,True,True,none,CD52
+CD19,CTGGGCAATTACTCG,A0050,CD19,CD19,[],CD19,CD19,"['B4', ' MGC12802']",none,True,False,True,CD19,none
+CD41,ACGTTGTGGCCTTGT,A0353,CD41,CD41,[],ITGA2B,CD41,"['CD41', ' CD41B', ' GP2B', ' GPIIb', ' GTA']",none,True,False,True,ITGA2B,none
+CD235ab,GCTCCTTTACACGTA,A0196,CD235ab,CD235ab,[],none,none,none,none,False,False,False,none,none
+CD38,TGTACCCGCTTGTGA,A0389,CD38,CD38,[],CD38,CD38,"['ADP-ribosyl cyclase 1', ' NAD(+) nucleosidase']",none,False,True,True,none,CD38
+CD161,GTACGCAGTCCTTCT,A0149,CD161,CD161,[],KLRB1,CD161,"['CD161', ' NKR', ' NKR-P1', ' NKR-P1A', ' NKRP1A', ' hNKR-P1A']",none,True,False,True,KLRB1,none
+CD158,TATCAACCAACGCTT,A0420,CD158 (KIR2DL1/S1/S3/S5),CD158..KIR2DL1_S1_S3_S5,['KIR2DL1/S1/S3/S5'],none,none,none,CD40LG,False,True,True,none,CD40LG
+IgD,CAGTCTCCGTAGAGT,A0384,IgD,IgD,[],none,none,none,none,False,False,False,none,none
+CD44,TGGCTTCAGGTCCTA,A0073,CD44,human_mouse.CD44,[],CD44,CD44,"['CDW44', ' ECMR-III', ' IN', ' INLU', ' LHR', ' MC56', ' MDU2', ' MDU3', ' MGC10468', ' MIC4', ' MUTCH-I', ' Pgp1']",none,True,False,True,CD44,none
+TCR α/β,CGTAACGTAGAGCGA,A0224,TCR α/β,TCR.a_b,[],none,none,none,none,False,False,False,none,none
+CD86,GTCTTTGTCAGTGCA,A0006,CD86,CD86,[],CD86,CD86,"['B7-2', ' B70', ' CD28LG2', ' LAB72', ' MGC34413']",none,False,False,False,none,none
+CD185,AATTCAACCGTCGCC,A0144,CD185 (CXCR5),CD185..CXCR5,['CXCR5'],BLR1,CD185,"['BLR1', ' CXCR5', ' MDR15']",none,True,False,True,CXCR5,none
+CD195,CCAAAGTAAGAGCCA,A0141,CD195 (CCR5),CD195..CCR5,['CCR5'],CCR5,CD195,"['CC-CKR-5', ' CCCKR5', ' CD195', ' CKR-5', ' CKR5', ' CMKBR5']",none,True,False,True,CCR5,none
+CX3CR1,AGTATCGTCTCTGGG,A0179,CX3CR1,CX3CR1,[],none,none,none,none,True,False,True,CX3CR1,none
+CD1c,GAGCTACTTCACTCG,A0160,CD1c,CD1c,[],CD1C,CD1C,['CD1'],none,True,False,True,CD1C,none
+HLA-DR,AATAGCGAGCAAGTA,A0159,HLA-DR,HLA.DR,[],none,none,none,none,False,False,False,none,none
+CD198,AGCCCGGATGTATTT,A0900,CD198 (CCR8),CD198..CCR8,['CCR8'],CCR8,CD198,"['CKR-L1', ' CKRL1', ' CMKBR8', ' CMKBRL2', ' CY6', ' GPR-CY6', ' TER1']",none,True,False,True,CCR8,none
+CD194,AGCTTACCTGCACGA,A0071,CD194 (CCR4),CD194..CCR4,['CCR4'],CCR4,CD194,"['CC-CKR-4', ' CKR4', ' CMKBR4', ' ChemR13', ' HGCN']",none,True,False,True,CCR4,none
+IgG Fc,CTGGAGCGATTAGAA,A0375,IgG Fc,IgG.Fc,[],none,none,none,none,False,False,False,none,none
+Mac-2,GATGCAATTAGCCGG,A0895,Mac-2 (Galectin-3),human_mouse.Mac.2..Galectin.3,['Galectin-3'],none,none,none,LGALS3,False,True,True,none,LGALS3
+CD14,TCTCAGACCTCCGTA,A0081,CD14,CD14,[],CD14,CD14,['none'],none,False,True,True,none,CD14
+CD141,GGATAACCGCGCTTT,A0163,CD141 (Thrombomodulin),CD141..Thrombomodulin,['Thrombomodulin'],THBD,CD141,"['CD141', ' THRM', ' TM']",none,True,False,True,THBD,none
+CD98,GCACCAACAGCCATT,A0374,CD98,CD98,[],SLC3A2,CD98,"['4F2', ' 4F2HC', ' 4T2HC', ' CD98', ' MDU1', ' NACAE']",none,False,False,False,none,none
+Ig light chain κ,AGCTCAGCCAGTATG,A0894,Ig light chain κ,Ig.light.chain.k,[],none,none,none,none,False,False,False,none,none
+Ig light chain λ,CAGCCAGTAAGTCAC,A0898,Ig light chain λ,Ig.light.chain.Lambda,[],none,none,none,none,False,False,False,none,none
+IgM,TAGCGAGCCCGTATA,A0136,IgM,IgM,[],none,none,none,none,False,False,False,none,none
+CD254,TCCGTGTTAGTTTGT,A0356,"CD254 (TRANCE, RANKL)",CD254..TRANCE_.RANKL,"['TRANCE, RANKL']",TNFSF11,CD254,"['ODF', ' OPGL', ' sOdf', ' CD254', ' OPTB2', ' RANKL', ' TRANCE', ' hRANKL2']",none,False,True,True,none,TNFSF11
+CD272,GTTATTGGACTAAGG,A0170,CD272 (BTLA),CD272..BTLA,['BTLA'],BTLA,CD272,"['BTLA1', ' FLJ16065']",none,False,True,True,none,BTLA
+B7-H4,TGTATGTCTGCCTTG,A0395,B7-H4,B7.H4,[],none,none,none,none,False,False,False,none,none
+CD24,AGATTCCTTCGTGTT,A0180,CD24,CD24,[],CD24,CD24,['CD24A'],none,False,True,True,none,CD24
+"Mouse IgG2a, κ isotype Ctrl",CTCCTACCTAAACTG,A0091,"Mouse IgG2a, κ isotype Ctrl",IgG2a.k,[],none,none,none,none,False,False,False,none,none
+"Mouse IgG1, κ isotype Ctrl",GCCGGACGACATTAA,A0090,"Mouse IgG1, κ isotype Ctrl",IgG1.k,[],none,none,none,none,False,False,False,none,none
+"Mouse IgG2b, κ isotype Ctrl",ATATGTATCACGCGA,A0092,"Mouse IgG2b, κ isotype Ctrl",IgG2b.k,[],none,none,none,none,False,False,False,none,none
+Podoplanin,GGTTACTCGTTGTGT,A0127,Podoplanin,Podoplanin,[],none,none,none,PDPN,False,False,False,none,none
+CD96,TGGCCTATAAATGGT,A0175,CD96 (TACTILE),CD96..TACTILE,['TACTILE'],CD96,CD96,"['MGC22596', ' TACTILE']",none,False,False,False,none,none
+CD305,ATTTCCATTCCCTGT,A0590,CD305 (LAIR1),CD305..LAIR1,['LAIR1'],LAIR1,CD305,['LAIR-1'],none,True,False,True,LAIR1,none
+CD178,CCGGTCCTCTGTATT,A0177,CD178 (Fas-L),CD178..Fas.L,['Fas-L'],FASLG,CD178,"['FASL', ' CD178', ' CD95L', ' TNFSF6', ' APT1LG1']",none,False,True,True,none,FASLG
+CD27,GCACTCCTGCATGTA,A0154,CD27,CD27,[],TNFRSF7,CD27,"['CD27', ' MGC20393', ' S152', ' T14', ' Tp55']",none,True,False,True,CD27,none
+CD49b,GCTTTCTTCAGTATG,A0371,CD49b,CD49b,[],ITGA2,CD49B,"['BR', ' CD49B', ' VLAA2']",none,True,False,True,ITGA2,none
+CD146,CCTTGGATAACATCA,A0134,CD146,CD146,[],MCAM,CD146,"['CD146', ' MUC18']",none,True,False,True,MCAM,none
+CD337,AAAGTCACTCTGCCG,A0801,CD337 (NKp30),CD337..NKp30,['NKp30'],NCR3,CD337,"['1C7', ' LY117', ' NKp30']",none,True,False,True,NCR3,none
+CD336,GGGCAATTAGCGAGT,A0802,CD336 (NKp44),CD336..NKp44,['NKp44'],NCR2,CD336,"['LY95', ' NK-p44', ' NKP44']",none,True,False,True,NCR2,none
+CD33,TAACTCAGGGCCTAT,A0052,CD33,CD33,[],CD33,CD33,"['SIGLEC-3', ' p67']",none,True,False,True,CD33,none
+CD57,AACTCCCTATGGAGG,A0168,CD57,CD57.Recombinant,[],CD57,CD57,"['HNK-1', ' LEU7', ' NK-1']",none,False,False,False,none,none
+CD4,TGTTCCCGCTCAACT,A0072,CD4,CD4,[],CD4,CD4,['none'],none,True,False,True,CD4,none
+"Rat IgG2b, κ Isotype Ctrl",GATTCTTGACGACCT,A0095,"Rat IgG2b, κ Isotype Ctrl",k,[],none,none,none,none,False,False,False,none,none
+XCR1,AAGACGCATGTCAAC,A0208,XCR1,XCR1,[],none,none,none,none,True,False,True,XCR1,none
+CD133,GTAAGACGCCTATGC,A0594,CD133,CD133,[],PROM1,CD133,"['AC133', ' CD133', ' PROML1']",none,False,False,False,none,none
+KLRG1,CTTATTTCCTGCCCT,A0153,KLRG1 (MAFA),KLRG1..MAFA,['MAFA'],none,none,none,none,True,False,True,KLRG1,none
+CD22,GGGTTGTTGTCTTTG,A0393,CD22,CD22,[],CD22,CD22,"['sialic acid binding Ig-like lectin 2', ' SIGLEC-2', ' SIGLEC2']",none,False,False,False,none,none
+CD11c,TACGCCTATAACTTG,A0053,CD11c,CD11c,[],ITGAX,CD11C,['CD11C'],none,True,False,True,ITGAX,none
+CD8,GCGCAACTTGATGAT,A0046,CD8,CD8,[],none,none,none,CD8A,True,False,True,CD8A,none
+CD155,ATCACATCGTTGCCA,A0023,CD155 (PVR),CD155..PVR,['PVR'],PVR,CD155,"['CD155', ' HVED', ' NECL5', ' PVS', ' TAGE4']",none,True,False,True,PVR,none
+CD106,TCACAGTTCCTTGGA,A0245,CD106,CD106,[],VCAM1,CD106,['INCAM-100'],none,False,True,True,none,VCAM1
+CD18,TATTGGGACACTTCT,A0385,CD18,CD18,[],ITGB2,CD18,"['CD18', ' LAD', ' LCAMB', ' LFA-1', ' MF17', ' MFI7']",none,False,False,False,none,none
+CD2,TACGATTTGTCAGGG,A0367,CD2,CD2,[],CD2,CD2,"['SRBC', ' T11']",none,True,False,True,CD2,none
+CD29,GTATTCCCTCAGTCA,A0369,CD29,CD29,[],ITGB1,CD29,"['CD29', ' FNRB', ' GPIIA', ' MDF2', ' MSK12', ' VLAB']",none,True,False,True,ITGB1,none
+CD11a,TATATCCTTGTGAGC,A0185,CD11a,CD11a,[],ITGAL,CD11A,"['CD11A', ' LFA-1', ' LFA1A']",none,True,False,True,ITGAL,none
+CD58,GTTCCTATGGACGAC,A0174,CD58 (LFA-3),CD58..LFA.3,['LFA-3'],CD58,CD58,['LFA3'],none,False,True,True,none,CD58
+CD122,TCATTTCCTCCGATT,A0246,CD122 (IL-2Rβ),CD122..IL.2Rb,['IL-2Rβ'],IL2RB,CD122,['P70-75'],IL2RB,False,False,False,none,none
+CD112,AACCTTCCGTCTAAG,A0024,CD112 (Nectin-2),CD112..Nectin.2,['Nectin-2'],PVRL2,CD112,"['CD112', ' HVEB', ' PRR2', ' PVRR2']",none,False,False,False,none,none
+CD45RO,CTCCGAATCATGTTG,A0087,CD45RO,CD45RO,[],PTPRC,CD45RO,['nan'],none,True,False,True,PTPRC,none
+CD3,CTCATTGTAACTCCT,A0034,CD3,CD3,[],"see CD3D, CD3E, CD3G",CD3,"['see CD3D, CD3E, CD3G']",none,False,False,False,none,none
+CD5,CATTAACGGGATGCC,A0138,CD5,CD5,[],CD5,CD5,['T1'],none,True,False,True,CD5,none
+CD158f,AAAGTGATGCCACTG,A0600,CD158f (KIR2DL5),CD158f..KIR2DL5,['KIR2DL5'],none,none,none,none,False,False,False,none,none
+"HLA-A,B,C",TATGCGAGGCTTATC,A0058,"HLA-A,B,C",HLA.A_B_C,[],none,none,none,none,False,False,False,none,none
+CD15,TCACCAGTACCTAGT,A0392,CD15 (SSEA-1),CD15..SSEA.1,['SSEA-1'],FUT4,CD15,"['CD15', ' ELFT', ' FCT3A', ' FUC-TIV']",none,False,False,False,none,none
+CD31,ACCTTTATGCCACGG,A0124,CD31,CD31,[],PECAM1,CD31,['CD31'],none,True,False,True,PECAM1,none
+CD276,GACTGGGAGGGTATT,A0010,CD276 (B7-H3),CD276..B7.H3,['B7-H3'],CD276,CD276,['B7H3'],none,False,False,False,none,none
+Galectin-9,ACTCACTGGAGTCTC,A0016,Galectin-9,Galectin.9,[],none,none,none,LGALS9,False,True,True,none,LGALS9
+CD45,TCCCTTGCGATTTAC,A0048,CD45,CD45,[],PTPRC,CD45,"['B220', ' CD45', ' GP180', ' LCA', ' LY5', ' T200']",none,True,False,True,PTPRC,none
+CD105,ATCGTCGAGAGCTAG,A0068,CD105,CD105,[],ENG,CD105,"['CD105', ' END', ' HHT1', ' ORW', ' ORW1']",none,True,False,True,ENG,none
+CD201,GTTTCCTTGACCAAG,A0069,CD201 (EPCR),CD201..EPCR,['EPCR'],PROCR,CD201,"['CCCA', ' CCD41', ' EPCR', ' MGC23024', ' bA42O4.2']",none,True,False,True,PROCR,none
+CD45R/B220,CCTACACCTCATAAT,A0103,CD45R/B220,human_mouse.CD45R_B220,[],none,none,none,none,False,False,False,none,none
+CD140a,ATGCGCCGAGAATTA,A0128,CD140a (PDGFRα),CD140a..PDGFRa,['PDGFRα'],PDGFRA,CD140A,"['CD140A', ' PDGFR2']",none,True,False,True,PDGFRA,none
+Cadherin 11,CGTTGCCATTAACCA,A0131,Cadherin 11,Cadherin.11,[],none,none,none,CDH11,True,False,True,CDH11,none
+EGFR,GCTTAACATTGGCAC,A0132,EGFR,EGFR,[],none,none,none,none,True,False,True,EGFR,none
+CD340,CTGTAGCCGCCTATT,A0133,CD340 (erbB2/HER-2),CD340..erbB2_HER.2,['erbB2/HER-2'],ERBB2,CD340,"['NEU', ' NGL', ' HER2', ' TKR1', ' HER-2', ' c-erb B2', ' HER-2/neu']",none,True,False,True,ERBB2,none
+CD11b,GACAAGTGATCTGCA,A0161,CD11b,CD11b,[],ITGAM,CD11B,"['CD11B', ' CR3A', ' MAC-1', ' MAC1A', ' MO1A']",none,True,False,True,ITGAM,none
+CD275,GTTAGTGTTAGCTTG,A0172,"CD275 (B7-H2, B7-RP1, ICOSL)",CD275..B7.H2_.B7.RP1_.ICOSL,"['B7-H2, B7-RP1, ICOSL']",ICOSLG,CD275,"['B7-H2', ' B7H2', ' B7RP-1', ' B7RP1', ' GL50', ' ICOS-L', ' ICOSLG', ' KIAA0653', ' LICOS']",none,False,True,True,none,ICOSLG
+Notch 1,AATCTGTAGTGCGTT,A0213,Notch 1,Notch.1,[],none,none,none,NOTCH1,True,False,True,NOTCH1,none
+CD42b,TCCTAGTACCGAAGT,A0216,CD42b,CD42b,[],GP1BA,CD42B,"['BSS', ' CD42B', ' CD42b-alpha', ' GP1B', ' MGC34595']",none,False,False,False,none,none
+CD119,TGTGTATTCCCTTGT,A0219,CD119 (IFN-γ R α chain),CD119..IFN.v.R.a.chain,['IFN-γ R α chain'],IFNGR1,CD119,"['CD119', ' IFNGR']",IFNGR1,False,False,False,none,none
+Notch 3,CTATTGGACGTATCT,A0233,Notch 3,Notch.3,[],none,none,none,NOTCH3,True,False,True,NOTCH3,none
+"Rat IgG1, κ isotype Ctrl",ATCAGATGCCCTCAT,A0236,"Rat IgG1, κ isotype Ctrl",k,[],none,none,none,none,False,False,False,none,none
+"Rat IgG1, λ Isotype Ctrl",GGGAGCGATTCAACT,A0237,"Rat IgG1, λ Isotype Ctrl",Lambda,[],none,none,none,none,False,False,False,none,none
+"Rat IgG2a, κ Isotype Ctrl",AAGTCAGGTTCGTTT,A0238,"Rat IgG2a, κ Isotype Ctrl",k,[],none,none,none,none,False,False,False,none,none
+"Rat IgG2c, κ Isotype Ctrl",TCCAGGCTAGTCATT,A0240,"Rat IgG2c, κ Isotype Ctrl",k,[],none,none,none,none,False,False,False,none,none
+Armenian Hamster IgG Isotype Ctrl,CCTGTCATTAAGACT,A0241,Armenian Hamster IgG Isotype Ctrl,Hamster.IgG,[],none,none,none,none,False,False,False,none,none
+CD192,GAGTTCCCTTACCTG,A0242,CD192 (CCR2),CD192..CCR2,['CCR2'],CCR2,CD192,"['CC-CKR-2', ' CCR2A', ' CCR2B', ' CKR2', ' CKR2A', ' CKR2B', ' CMKBR2', ' MCP-1-R']",none,True,False,True,CCR2,none
+CD102,TGACCTTCCTCTCCT,A0244,CD102 (ICAM-2),CD102..ICAM.2,['ICAM-2'],ICAM2,CD102,['CD102'],none,False,True,True,none,ICAM2
+CD62E,CTCCCTGTGGCTTAA,A0248,CD62E,CD62E,[],SELE,CD62E,"['CD62E', ' ELAM', ' ELAM1', ' ESEL', ' LECAM2']",none,False,True,True,none,SELE
+CD135,CAGTAGATGGAGCAT,A0351,CD135 (Flt-3/Flk-2),CD135..Flt.3_Flk.2,['Flt-3/Flk-2'],FLT3,CD135,"['CD135', ' FLK2', ' STK1']",none,True,False,True,FLT3,none
+CD43,GATTAACCAGCTCAT,A0357,CD43,CD43,[],SPN,CD43,"['CD43', ' GPL115', ' LSN']",none,False,False,False,none,none
+CD59,AATTAGCCGTCGAGA,A0361,CD59,CD59,[],CD59,CD59,"['MGC2354', ' MIC11', ' MIN1', ' MIN2', ' MIN3', ' MSK21', ' PROTECTIN']",none,False,True,True,none,CD59
+CD13,TTTCAACGCCCTTTC,A0364,CD13,CD13,[],ANPEP,CD13,"['CD13', ' LAP1', ' PEPN', ' gp150']",none,False,False,False,none,none
+CD61,AGGTTGGAGTAGACT,A0372,CD61,CD61,[],ITGB3,CD61,"['CD61', ' GP3A', ' GPIIIa']",none,True,False,True,ITGB3,none
+CD177,AGTATGGAGCCATAT,A0382,CD177,CD177,[],CD177,CD177,"['CD177', ' HNA2A', ' NB1']",none,False,True,True,none,CD177
+CD55,GCTCATTACCCATTA,A0383,CD55,CD55,[],DAF,CD55,"['CD55', ' CR', ' TC']",none,False,True,True,none,CD55
+CD115,AATCACGGTCCTTGT,A0398,CD115 (CSF-1R),CD115..CSF.1R,['CSF-1R'],CSF1R,CD115,"['C-FMS', ' CD115', ' CSFR', ' FIM2', ' FMS']",none,True,False,True,CSF1R,none
+CD301,ACCTAGAAATCAGCA,A0401,CD301 (CLEC10A),CD301..CLEC10A,['CLEC10A'],CLEC10A,CD301,"['HML', ' HML2', ' CLECSF13', ' CLECSF14']",none,True,False,True,CLEC10A,none
+CD207,CATTCTTCACGGGAT,A0403,CD207 (Langerin),CD207..Langerin,['Langerin'],CD207,CD207,['LANGERIN'],none,False,False,False,none,none
+CD63,GAGATGTCTGCAACT,A0404,CD63,CD63,[],CD63,CD63,"['LAMP-3', ' ME491', ' MLA1', ' OMA81H']",none,True,False,True,CD63,none
+CD284,GCTTAGCTGTATCCG,A0405,CD284 (TLR4),CD284..TLR4,['TLR4'],TLR4,CD284,"['TOLL', ' hToll']",none,True,False,True,TLR4,none
+CD172a,CGTGTTTAACTTGAG,A0408,CD172a (SIRPα),CD172a..SIRPa,['SIRPα'],PTPNS1,CD172A,"['BIT', ' MFR', ' MYD-1', ' P84', ' SHPS-1', ' SHPS1', ' SIRP', ' SIRP-ALPHA-1', ' SIRPalpha', ' SIRPalpha2']",none,False,False,False,none,none
+CD85g,TGTCAGTTCCTATGA,A0409,CD85g (ILT7),CD85g..ILT7,['ILT7'],none,none,none,LILRA4,True,False,True,LILRA4,none
+CD243,TGACCCGACCTTTAG,A0418,CD243 (ABCB1),CD243..ABCB1,['ABCB1'],ABCB1,CD243,"['ABC20', ' CD243', ' CLCS', ' GP170', ' MDR1', ' P-gp', ' PGY1']",none,False,False,False,none,none
+CD72,CAGTCGTGGTAGATA,A0419,CD72,CD72,[],CD72,CD72,['LYB2'],none,False,False,False,none,none
+MERTK,TCCTGCATGTACCCA,A0423,MERTK,MERTK,[],none,none,none,none,True,False,True,MERTK,none
+Folate Receptor β,TGTGGCTAGTCAGTT,A0427,Folate Receptor β (FR-β),Folate.Receptor.b..FR.b,['FR-β'],none,none,none,none,False,False,False,none,none
+TIM-4,CGTCATATAGTATGG,A0428,TIM-4,TIM.4,[],none,none,none,TIMD4,False,True,True,none,TIMD4
+CD171,GATGGACGACAATTC,A0430,CD171 (LICAM),CD171..LICAM,['LICAM'],L1CAM,CD171,"['CAML1', ' CD171', ' HSAS', ' HSAS1', ' MASA', ' MIC5', ' N-CAML1', ' S10', ' SPG1']",none,False,True,True,none,L1CAM
+CD230,CAGGTCCCTTATTTC,A0432,CD230 (Prion),X.Prion,['Prion'],PRNP,CD230,"['ASCR', ' CJD', ' GSS', ' MGC26679', ' PRIP', ' PrP', ' PrP27-30', ' PrP33-35C', ' PrPc']",none,False,False,False,none,none
+CD325,CCTTCCCTTTCCTCT,A0433,CD325 (N-Cadherin),CD325..N.Cadherin,['N-Cadherin'],CDH2,CD325,"['CDHN', ' NCAD']",none,True,False,True,CDH2,none
+CD93,GCGCTACTTCCTTGA,A0446,CD93,CD93,[],CD93,CD93,"['C1QR1', ' C1qRP', ' CDw93', ' MXRA4', ' C1qR(P)', ' dJ737E23.1']",none,True,False,True,CD93,none
+CD200,CACGTAGACCTTTGC,A0447,CD200 (OX2),CD200..OX2,['OX2'],CD200,CD200,"['MOX1', ' MOX2', ' MRC', ' OX-2']",none,False,False,False,none,none
+CD338,TAAGACTTGGCCGTC,A0569,CD338 (ABCG2),CD338..ABCG2,['ABCG2'],ABCG2,CD338,"['MRX', ' MXR', ' ABCP', ' BCRP', ' BMDP', ' MXR1', ' ABC15', ' BCRP1', ' CDw338', ' EST157481', ' MGC102821']",none,False,False,False,none,none
+C5L2,ACAATTTGTCTGCGA,A0572,C5L2,C5L2,[],none,none,none,C5AR2,True,False,True,C5AR2,none
+CD235a,AGAGTATGTATGGGA,A0574,CD235a (Glycophorin A),CD235a..Glycophorin.A,['Glycophorin A'],GYPA,CD235A,"['GPA', ' MN', ' MNS']",none,False,False,False,none,none
+CD49a,ACTGATGGACTCAGA,A0575,CD49a,CD49a,[],ITGA1,CD49A,"['CD49a', ' VLA1']",none,True,False,True,ITGA1,none
+CD9,GAGTCACCAATCTGC,A0579,CD9,CD9,[],CD9,CD9,"['BA2', ' DRAP-27', ' MIC3', ' MRP-1', ' P24']",none,True,False,True,CD9,none
+mast cell tryptase,ACTGATAGACCCGCT,A0580,mast cell tryptase,mast.cell.tryptase,[],none,none,none,TPSAB1,False,True,True,none,TPSAB1
+CD354,TAGCCGTTTCCTTTG,A0586,CD354 (TREM-1),CD354..TREM.1,['TREM-1'],TREM1,CD354,"['CD354', ' TREM-1']",none,True,False,True,TREM1,none
+CD202b,CGATCCCTTACCTAT,A0588,CD202b (Tie2/Tek),CD202b..Tie2_Tek,['Tie2/Tek'],TEK,CD202B,"['CD202B', ' TIE-2', ' TIE2', ' VMCM', ' VMCM1']",none,True,False,True,TEK,none
+CD203c,TAACCGTACCTGCAT,A0593,CD203c (E-NPP3),CD203c..E.NPP3,['E-NPP3'],ENPP3,CD203C,"['B10', ' CD203c', ' NPP3', ' PD-IBETA', ' PDNP3']",none,False,False,False,none,none
+CD110,TGTTGTAAGATGCCA,A0598,CD110,CD110,[],MPL,CD110,"['C-MPL', ' CD110', ' MPLV', ' TPOR']",none,True,False,True,MPL,none
+CD253,GCCATTCCTGCCTAA,A0803,CD253 (Trail),CD253..Trail,['Trail'],TNFSF10,CD253,"['Apo-2L', ' CD253', ' TL2', ' TRAIL']",none,False,True,True,none,TNFSF10
+CD186,GACAGTCGATGCAAC,A0804,CD186 (CXCR6),CD186..CXCR6,['CXCR6'],CXCR6,CD186,"['CXCR6', ' BONZO', ' STRL33', ' TYMSTR']",none,True,False,True,CXCR6,none
+CD226,AGACCAACTCATTCA,A0805,CD226 (DNAM-1),CD226..DNAM.1,['DNAM-1'],CD226,CD226,"['DNAM-1', ' DNAM1', ' PTA1', ' TLiSA1']",none,True,False,True,CD226,none
+CD205,CTATCGTTTGATGCA,A0814,CD205 (DEC-205),CD205..DEC.205,['DEC-205'],LY75,CD205,"['CLEC13B', ' DEC-205', ' GP200-MR6']",none,False,False,False,none,none
+CCR10,ATCTGTATGTCACAG,A0815,CCR10,CCR10,[],none,none,none,none,True,False,True,CCR10,none
+CD271,AACCGCGCTTCAGAT,A0816,CD271 (NGFR),CD271..NGFR,['NGFR'],NGFR,CD271,"['NGFR', ' TNFRSF16', ' p75(NTR)']",none,True,False,True,NGFR,none
+CD109,CACTTAACTCTGGGT,A0817,CD109,CD109,[],CD109,CD109,"['DKFZp762L1111', ' FLJ38569']",none,False,False,False,none,none
+CD126,TGATGGGAGCTTATC,A0819,CD126 (IL-6Rα),CD126..IL.6Ra,['IL-6Rα'],IL6R,CD126,"['CD126', ' IL-6R-1', ' IL-6R-alpha', ' IL6RA']",none,True,False,True,IL6R,none
+GP130,CACGAGAATTTCAGT,A0820,GP130,GP130,[],none,none,none,IL6ST,False,False,False,none,none
+CD164,GAGGCACTTAACATA,A0821,CD164,CD164,[],CD164,CD164,"['MGC-24', ' MUC-24', ' endolyn']",none,False,False,False,none,none
+CD142,CACTGCCGTCGATTA,A0822,CD142,CD142,[],F3,CD142,"['CD142', ' TF', ' TFA']",none,True,True,True,F3,TF
+CD307c/FcRL3,GCCTAGTTTGAACGC,A0826,CD307c/FcRL3,CD307c_FcRL3,[],none,none,none,none,False,False,False,none,none
+CD199,ATTCCTCATTCCTGA,A0843,CD199 (CCR9),CD199..CCR9,['CCR9'],CCR9,CD199,"['GPR-9-6', ' GPR28']",none,True,False,True,CCR9,none
+CD45RB,AGATGGGACTCACCA,A0844,CD45RB,CD45RB,[],PTPRC,CD45RB,['nan'],none,True,False,True,PTPRC,none
+CD46,ACAGTACGACCTTCT,A0858,CD46,CD46,[],MCP,CD46,"['CD46', ' MGC26544', ' MIC10', ' TLX', ' TRA2.10']",none,True,False,True,CD46,none
+CD151,CTTACCTAGTCATTC,A0861,CD151 (PETA-3),CD151..PETA.3,['PETA-3'],CD151,CD151,"['GP27', ' PETA-3', ' SFA1']",none,True,False,True,CD151,none
+CD218a,TTGTTGTATCCGATC,A0862,CD218a (IL-18Rα),CD218a..IL.18Ra,['IL-18Rα'],IL18R1,CD218A,"['IL18R1', ' IL1RRP', ' IL-1Rrp']",IL18R1,False,False,False,none,none
+CD352,AGTTTCCACTCAGGC,A0864,CD352 (NTB-A),CD352..NTB.A,['NTB-A'],SLAMF6,CD352,"['CD352', ' KALI', ' KALIb', ' Ly108', ' NTB-A', ' NTBA', ' SF2000']",none,False,False,False,none,none
+VEGFR-3,TGATCCGAAGTCGTG,A0865,VEGFR-3 (FLT-4),VEGFR.3..FLT.4,['FLT-4'],none,none,none,FLT4,True,False,True,FLT4,none
+CLEC1B,TGCCAGTATCACGTA,A0866,CLEC1B (CLEC2),CLEC1B..CLEC2,['CLEC2'],none,none,none,none,False,False,False,none,none
+IgE,GGATGTACCGCGTAT,A0868,IgE,IgE,[],none,none,none,none,False,False,False,none,none
+CD365,CTTCTGGGATTCTGG,A0869,CD365 (Tim-1),CD365..Tim.1,['Tim-1'],HAVCR1,CD365,"['HAVCR, HAVCR-1, T-cell immunoglobulin mucin family member 1, TIM-1, TIMD1']",none,False,False,False,none,none
+CD162,ATATGTCAGAGCACC,A0871,CD162,CD162,[],SELPLG,CD162,"['CD162', ' PSGL-1', ' PSGL1']",none,False,True,True,none,SELPLG
+CD84,CTCCCTAGTTCCTTT,A0872,CD84,CD84,[],CD84,CD84,"['LY9B', ' SLAMF5', ' hCD84', ' mCD84']",none,False,False,False,none,none
+GPR56,GCCTAGTTTCCGTTT,A0912,GPR56,GPR56,[],none,none,none,ADGRG1,True,False,True,ADGRG1,none
+CD158d,TTAGCCCGTAGACCA,A0913,CD158d (KIR2DL4),CD158d..KIR2DL4,['KIR2DL4'],none,none,none,none,True,False,True,KIR2DL4,none
+MICA/MICB,CCCGCAGTATAACGA,A0919,MICA/MICB,MICA_MICB,[],none,none,none,MICA,False,True,True,none,MICA
+NKp80,TATAGTTCCTCTGTG,A0923,NKp80,NKp80,[],none,none,none,KLRF1,True,False,True,KLRF1,none
+TSPAN33,GAGTTCGTTGTTCCA,A0928,TSPAN33 (BAAM),TSPAN33..BAAM,['BAAM'],none,none,none,none,False,False,False,none,none
+CD131,CTGCATGAGACCAAA,A0931,CD131,CD131,[],CSF2RB,CD131,"['CD131', ' CDw131', ' IL3RB', ' IL5RB']",CSF2RB,False,False,False,none,none
+Lymphotoxin β Receptor,CCTCTATTCAGAGCA,A0932,Lymphotoxin β Receptor (LT-βR),Lymphotoxin.b.Receptor..LT.bR,['LT-βR'],none,none,none,LTBR,True,False,True,LTBR,none
+Annexin A1,CCCACTGGAGCAATT,A0933,Annexin A1,in.A1,[],none,none,none,ANXA1,False,True,True,none,ANXA1
+CD179a,TAGATGGGATTCCGG,A0934,CD179a (VpreB),CD179a..VpreB,['VpreB'],VPREB1,CD179A,"['IGI', ' IGVPB', ' VPREB']",none,False,False,False,none,none
+CD74,CTGTAGCATTTCCCT,A0935,CD74,CD74,[],CD74,CD74,"['DHLAG', ' HLADG', ' Ia-GAMMA']",none,True,False,True,CD74,none
+CD317,AAGAGCCGTTGTGAA,A0936,"CD317 (BST2, Tetherin)",CD317..BST2_.Tetherin,"['BST2, Tetherin']",BST2,CD317,['none'],none,False,True,True,none,BST2
+LAP,ATCCTTCCGATTGTG,A0939,LAP (TGF-β1),LAP..TGF.b1,['TGF-β1'],none,none,none,none,False,False,False,none,none
+CD116,ATGGACAGTTCGTGT,A0940,CD116,CD116,[],CSF2RA,CD116,"['CD116', ' CDw116', ' CSF2R', ' CSF2RAX', ' CSF2RAY', ' CSF2RX', ' CSF2RY', ' GM-CSF-R-alpha', ' GMCSFR', ' GMR', ' MGC3848', ' MGC4838']",none,True,False,True,CSF2RA,none
+CD37,ACAGTCACTGGGCAA,A0941,CD37,CD37,[],CD37,CD37,['GP52-40'],none,False,False,False,none,none
+TNF-α,CCTATGAACGTAACG,A0945,TNF-α,TNF.a,[],none,none,none,TNF,False,True,True,none,TNF
+CD215,CATATTCCGCCGTAA,A0947,CD215 (IL-15Rα),CD215..IL.15Ra,['IL-15Rα'],IL15RA,CD215,"['CD215', ' IL-15RA']",none,False,True,True,none,IL15RA
+CD321,GACAGTACCGACACT,A0948,CD321,CD321,[],F11R,CD321,"['JAM', ' KAT', ' JAM1', ' JCAM', ' JAM-1', ' PAM-1']",none,False,True,True,none,F11R
+"HLA-DR, DP, DQ",AGCTACGAGCAGTAG,A1018,"HLA-DR, DP, DQ",HLA.DR_.DP_.DQ,[],none,none,none,none,False,False,False,none,none
