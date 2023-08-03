@@ -2,3 +2,5 @@ data
 .vscode
 .DS_Store
 .pybiomart.sqlite
+.Rproj.user
+Liana_Vignette.Rproj
